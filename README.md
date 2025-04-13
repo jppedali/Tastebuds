@@ -8,7 +8,7 @@ TasteBuds is an innovative Android cooking app revolutionizing traditional cooki
 
 Inspired by Dr. Hyman's innovative approach, it provides personalized, AI-driven recipe suggestions tailored to users' tastes, dietary preferences, and nutritional goals.
 
-Encourages user interaction and engagement through community-driven features, fostering a vibrant cooking-focused social network.
+Encourages user interaction and engagement through community-driven features, fostering a vibrant cooking-focused social network
 
 2. Problem Addressing:
 
